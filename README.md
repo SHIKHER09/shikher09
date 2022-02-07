@@ -1,4 +1,4 @@
-[![MasterHead]<iframe src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm SHIKHER KUMAR</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
