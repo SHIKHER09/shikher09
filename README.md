@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, Node, React, MongoDB,Etc.**
 
-- 👯 I’m looking to collaborate on ** All project**
+- 👯 I’m looking to collaborate on **All types of project**
 
 - 🤝 I’m looking for help with **Cloud computing project**
 
