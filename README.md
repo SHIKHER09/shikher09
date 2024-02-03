@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikher09&label=Profile%20views&color=0e75b6&style=flat" alt="shikher09" /> </p>
 
-- 🔭 I’m currently working on System desidn)
+- 🔭 I’m currently working on System design
 
 - 🌱 I’m currently learning **Javascript, Node, React, MongoDB,Etc.**
 
