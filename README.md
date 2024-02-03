@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikher09&label=Profile%20views&color=0e75b6&style=flat" alt="shikher09" /> </p>
 
-- 🔭 I’m currently working on [Future Door](https://github.com/SHIKHER09/Future-Door)
+- 🔭 I’m currently working on System desidn)
 
 - 🌱 I’m currently learning **Javascript, Node, React, MongoDB,Etc.**
 
-- 👯 I’m looking to collaborate on **Cloud computing project**
+- 👯 I’m looking to collaborate on ** All project**
 
 - 🤝 I’m looking for help with **Cloud computing project**
 
-- 👨‍💻 All of my projects are available at [http://shikherkumar.000webhostapp.com/](http://shikherkumar.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://shikher09.github.io/](https://shikher09.github.io/)
 
-- 💬 Ask me about **Java and MATLAB**
+- 💬 Ask me about **Java and MERN Stack with Aws**
 
 - 📫 How to reach me **SHIKHERKUMARBARPATE@OUTLOOK.COM**
 
